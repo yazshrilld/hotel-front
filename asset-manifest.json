@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hotel-front/static/css/main.2dac949e.chunk.css",
+    "main.js": "/hotel-front/static/js/main.27fe5bd8.chunk.js",
+    "main.js.map": "/hotel-front/static/js/main.27fe5bd8.chunk.js.map",
+    "runtime-main.js": "/hotel-front/static/js/runtime-main.3ce18906.js",
+    "runtime-main.js.map": "/hotel-front/static/js/runtime-main.3ce18906.js.map",
+    "static/js/2.0fca03a8.chunk.js": "/hotel-front/static/js/2.0fca03a8.chunk.js",
+    "static/js/2.0fca03a8.chunk.js.map": "/hotel-front/static/js/2.0fca03a8.chunk.js.map",
+    "index.html": "/hotel-front/index.html",
+    "static/css/main.2dac949e.chunk.css.map": "/hotel-front/static/css/main.2dac949e.chunk.css.map",
+    "static/js/2.0fca03a8.chunk.js.LICENSE.txt": "/hotel-front/static/js/2.0fca03a8.chunk.js.LICENSE.txt",
+    "static/media/bgimage.f5b82376.png": "/hotel-front/static/media/bgimage.f5b82376.png",
+    "static/media/landscape.de3974ac.jpg": "/hotel-front/static/media/landscape.de3974ac.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ce18906.js",
+    "static/js/2.0fca03a8.chunk.js",
+    "static/css/main.2dac949e.chunk.css",
+    "static/js/main.27fe5bd8.chunk.js"
+  ]
+}
